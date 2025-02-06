@@ -1,5 +1,5 @@
 # Blinkit-Sale-Dashboard
-   <img src="https://github.com/vaishu-08/Blinkit-Sale-Dashboard/blob/main/Blinkit%20p.jpg" alt="blinkit">
+   <div style="text-align: center;"> <img src="https://github.com/vaishu-08/Blinkit-Sale-Dashboard/blob/main/Blinkit%20p.jpg" alt="blinkit" width="800" height="auto"> </div>
 
 ## Overview :
 The project analyze the Blinkit grocery dataset to uncover key insights into sales trends, consumer preferences, and product performance. By leveraging this dataset, businesses can optimize inventory management, improve marketing strategies, and enhance customer satisfaction.
